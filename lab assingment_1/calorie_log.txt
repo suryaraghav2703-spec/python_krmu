@@ -1,0 +1,44 @@
+
+
+===== DAILY CALORIE TRACKER REPORT =====
+Date: 2025-11-11 21:08:50.863865
+
+Meal Name	Calories
+------------------------------------------
+breakfast      	100.0
+lunch          	200.0
+dinner         	400.0
+------------------------------------------
+Total:		700.0
+Average:	233.33
+Status:		Great job! You are within your daily calorie limit.
+==========================================
+
+
+===== DAILY CALORIE TRACKER REPORT =====
+Date: 2025-11-11 21:09:55.283566
+
+Meal Name	Calories
+------------------------------------------
+breakfast      	300.0
+lunch          	500.0
+dinner         	400.0
+------------------------------------------
+Total:		1200.0
+Average:	400.00
+Status:		You have exceeded your daily calorie limit!
+==========================================
+
+
+===== DAILY CALORIE TRACKER REPORT =====
+Date: 2025-11-11 21:10:52.244796
+
+Meal Name	Calories
+------------------------------------------
+snack1         	300.0
+dinner         	400.0
+------------------------------------------
+Total:		700.0
+Average:	350.00
+Status:		Great job! You are within your daily calorie limit.
+==========================================
